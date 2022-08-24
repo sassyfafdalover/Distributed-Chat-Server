@@ -1,0 +1,16 @@
+Process 0 snapshot
+Sent 0 messegaes to 0
+Sent 3 messegaes to 1
+Recieved 0 messeges from 0
+Recieved 2 messeges from 1
+Messeges in channel 0 - 0 : 0
+Messeges in channel 0 - 1 : 0
+
+Process 1 snapshot
+Sent 2 messegaes to 0
+Sent 0 messegaes to 1
+Recieved 3 messeges from 0
+Recieved 0 messeges from 1
+Messeges in channel 1 - 0 : 0
+Messeges in channel 1 - 1 : 0
+

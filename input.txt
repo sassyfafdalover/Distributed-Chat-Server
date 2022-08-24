@@ -1,0 +1,8 @@
+0 1
+0 : Hello
+0 : How are you
+1 : How do you do?
+1 : We can end our chat here.
+0 : Good bye
+END
+ENDFILE

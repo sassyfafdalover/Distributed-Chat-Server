@@ -1,0 +1,21 @@
+Group Members
+Aadarsh Roshan( IIT2019161)
+Ayush Baranwal(IIT2019169)
+Snehalreet Kaur(IIT2019175)
+Sahil Sharma(IIT2019179)
+Gaurav Nimrani(IIT2019231)
+
+Programs are compiled with:
+
+mpirun -np (no. of processes) xterm -hold -e python3 leaderelection.py
+mpirun -np (no. of processes) xterm -hold -e python3 snapshot.py
+
+Input file "input.txt" is a text file which store messeges send between users.
+First character is sender id followed by messege send by user
+After every finished chat there is END indicating chat is finished between users
+And at last there is ENDFILE indicating end of program
+
+Output file "snapshot.txt" is a text file which stores snapshot of every processes recorded at current instant.
+First it shows number of messeges send by a particluar process.
+Then it shows number of messeges recieved by a particluar process.
+Then messeges present in channels between process
